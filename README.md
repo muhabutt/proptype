@@ -1,0 +1,2 @@
+# proptype
+Wordpress custom theme
